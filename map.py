@@ -1,4 +1,3 @@
-
 '''
 
 Instead of looping we can simply iterate with map
